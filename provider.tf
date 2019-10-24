@@ -1,0 +1,1 @@
+provider "scaleway" { version = "~> 1.11" }
